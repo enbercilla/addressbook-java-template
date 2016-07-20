@@ -1,3 +1,3 @@
-# addressbook-java-template
+# AddressBook Template
 
-AddressBook Java Template is a sample template App for Java 101 Students
+AddressBook is a template App for Java 101 Students at UP ITDC.
